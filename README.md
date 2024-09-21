@@ -6,8 +6,10 @@
     <br> <br>
     Bot creat pentru jocul Halite 1
     <br>
-    Proiect creat pe perioada materiei PA UPB.
-    
+    Proiect in cadrul materiei PA UPB.
+    <br>
+    Cu ajutorul lui <a href="https://github.com/Alexe1289">Alex</a>
+
 </div>
 
 ## Botul are doua stari:
@@ -16,7 +18,6 @@
 
 ## Early Game
 O sa definim *Frontiera* botul, ca marginea sa (blocurile ce au ca vecini spatii goale)
-
 In Early game, botul salveaza toate spatiile de pe frontierea sa, si pe rand calculeaza pentru fiecare spatiu detinut, in ce directie
 se poate duce pentru a ajunge cat mai rapid la frontiera.
 
