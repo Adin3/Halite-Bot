@@ -4,9 +4,9 @@
 
   <p align="center">
     <br> <br>
-    Bot creat pentru jocul Halite 1
-    <br>
     Proiect in cadrul materiei PA UPB.
+    <br>
+    Bot creat pentru jocul Halite 1
     <br>
     Cu ajutorul lui <a href="https://github.com/Alexe1289">Alex</a>
 
